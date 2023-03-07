@@ -1,6 +1,2 @@
 Hello STUnited
-<<<<<<< HEAD
-I'm From the new adventure aaaa
-=======
-I'm From the new adventure abc
->>>>>>> 627f5bb3a92b76475b80e994a1cdfc342882438d
+
